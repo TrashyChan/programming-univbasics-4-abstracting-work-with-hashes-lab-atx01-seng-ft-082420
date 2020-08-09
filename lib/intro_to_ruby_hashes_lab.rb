@@ -4,7 +4,7 @@ end
 
 def read_from_hash(hash, key)
   student =
-  {name: 'Steven'}
+  {:name => 'Steven'}
 end
 
 def update_counting_hash(hash, key)
